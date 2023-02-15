@@ -37,6 +37,6 @@ BULK INSERT ODS.dbo.BNLC
 FROM 'C:\Users\bacar\Downloads\BNLC.csv'
 WITH
 (
-	FIRSTROW=2,
+	FIRSTROW=19,
 	FORMAT='CSV'
 );
